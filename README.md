@@ -35,7 +35,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL"/>
 </div>
 
 ### Otras Herramientas
@@ -60,9 +59,6 @@
   </a>
   <a href="https://www.twitch.tv/lexsor00" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" alt="twitch"/>
-  </a>
-  <a href="https://discord.com/invite/HuPGx4atZk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord"/>
   </a>
 </div>
 
